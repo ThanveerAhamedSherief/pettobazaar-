@@ -37,8 +37,9 @@ const ContactForm = () => {
                                         d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
                                     />
                                 </svg>
-                                <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    Acme Inc, Street, State, Postal Code
+                                <div className="ml-4 text-md tracking-wide font-semibold w-45">
+                                No 19C 3rd Main 3rd Cross,
+                                Padmeshwari Nagar, Kithaganur,Bengaluru-560049
                                 </div>
                             </div>
 
@@ -60,7 +61,7 @@ const ContactForm = () => {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
+                                    +91 96200339221
                                 </div>
                             </div>
 
@@ -82,7 +83,7 @@ const ContactForm = () => {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                    info.pettobazaar@gmail.com
                                 </div>
                             </div>
                         </div>

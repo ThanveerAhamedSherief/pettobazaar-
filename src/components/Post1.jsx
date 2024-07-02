@@ -1,5 +1,5 @@
 import React from 'react';
-import BannerImg from "/mobileimage.jpg";
+import BannerImg from "../assets/mobileimage.jpg";
 
 
 const Post1 = () => {

@@ -29,9 +29,9 @@ import React from "react";
 // import Image2 from "../../assets/hero/shopping.png";
 // import Image3 from "../../assets/hero/sale.png";
 import Slider from "react-slick";
-import Image1 from '/allpets.jpg';
-import Image2 from '/womenDog.jpg';
-import Image3 from '/humanCat.png';
+import Image1 from '../assets/allpets.jpg';
+import Image2 from '../assets/womenDog.jpg';
+import Image3 from '../assets//humanCat.png';
 
 
 const ImageList = [
