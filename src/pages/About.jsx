@@ -16,8 +16,7 @@ const AboutPage = () => {
             </p>
             <p className="text-lg text-center text-gray-700 mb-6">
               Welcome to PettoBazaar, the premier platform designed to cater to all your pet needs.
-              Whether you're looking to buy or sell pets, find mating partners for your furry friends,
-              or access a range of pet services, PettoBazaar is here to make your experience smooth,
+              Whether you're looking to buy or sell pets,access a range of pet services, PettoBazaar is here to make your experience smooth,
               secure, and enjoyable.
             </p>
           </div>
@@ -48,13 +47,9 @@ const AboutPage = () => {
         </section>
 
         {/* Mating Services Section */}
-        <section className="mb-8">
+        {/* <section className="mb-8">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Mating Services</h2>
           <div className="flex flex-col md:flex-row justify-center items-center md:items-start md:space-x-8">
-            {/* <div className="md:w-1/2">
-              <img src="/path/to/mating-services-image.jpg" alt="Mating Services" className="rounded-lg shadow-lg mb-4 max-w-full h-auto" />
-            </div>
-            <div className="md:w-1/2"> */}
             <div >
               <p className="text-lg text-gray-700 mb-4">
                 Finding the right mating partner for your pet is crucial for their health and happiness.
@@ -69,7 +64,7 @@ const AboutPage = () => {
               </ul>
             </div>
           </div>
-        </section>
+        </section> */}
 
         {/* Pet Services Marketplace Section */}
         <section className="mb-8">
