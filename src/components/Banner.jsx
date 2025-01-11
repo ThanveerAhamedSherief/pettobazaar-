@@ -29,25 +29,25 @@ import React from "react";
 // import Image2 from "../../assets/hero/shopping.png";
 // import Image3 from "../../assets/hero/sale.png";
 import Slider from "react-slick";
-import Image1 from '../assets/allpets.jpg';
-import Image2 from '../assets/womenDog.jpg';
-import Image3 from '../assets//humanCat.png';
+import Image1 from '../assets/8326626.png';
+import Image2 from '../assets/pets.png';
+import Image3 from '../assets/123.png';
 
 
 const ImageList = [
   {
     id: 1,
     img: Image1,
-    title: "The love for all living creatures is the most noble attribute of man",
+    title: "The greatest quality of a person is their deep compassion and care for all living beings.",
     description:
-      "If having a soul means being able to feel love and loyalty and gratitude, then animals are better off than a lot of humans.Animals are such agreeable friends – they ask no questions, they pass no criticisms",
+      "If possessing a soul means experiencing love, loyalty, and gratitude, then animals might be more fortunate than many humans. Animals make such wonderful companions—they don't judge, they don't ask for explanations, and they offer their friendship without criticism.",
   },
   {
     id: 2,
     img: Image2,
-    title: "Reach Pet Lovers",
+    title: "Pets teach us more about love than any human being ever could.",
     description:
-      "the premier platform designed to cater to all your pet needs.Browse listings from breeders, shelters, and private sellers to find your next furry family member, or list your own pets for adoption in a secure and supportive community. Discover a new way to connect with pets and pet lovers alike on PetTrade Hub.",
+      "From dogs and cats to birds, reptiles, and exotic pets, we offer a diverse selection of animals.",
   },
   {
     id: 3,

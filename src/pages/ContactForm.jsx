@@ -61,7 +61,7 @@ const ContactForm = () => {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +91 96200339221
+                                    +91 9901102203
                                 </div>
                             </div>
 
